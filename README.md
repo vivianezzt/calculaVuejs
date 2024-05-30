@@ -1,6 +1,6 @@
 # calculaVuejs
 
-This is the exercise proposed by the EBAC programming school
+Este exercicío foi proposto pela escola de programação EBAC
 
 ## Recommended IDE Setup
 
