@@ -20,7 +20,7 @@ A entrega deste exercício consiste em:
 
 • Crie um repositório no Github para esta tarefa e nos envie o link pela plataforma. 
 
-Calculadora <img src="./src/components/img/calc.png"
+Calculadora <img src="./src/components/img/calc.png">
 
 confira o projeto <a href="https://calcula-vuejs-viviane.vercel.app/">Calculadora VueJS</a>
 
